@@ -7,7 +7,7 @@
     - ~~Czy na pewno chcemy je w zakładce? Może lepiej niech będą cały czas widoczne?~~
 
 ## Dobrze by było
-- wywalić kod JS z index.html do modułów
+- ~~wywalić kod JS z index.html do modułów~~
 - skalowanie wczytywanych obrazów
 
 ## Ewentualnie
