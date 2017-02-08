@@ -17,13 +17,13 @@
     - ~~Dostęp do lokalnego systemu plików: [File API](https://developer.mozilla.org/pl/docs/Using_files_from_web_applications)~~
 
 ---
-### Algorytm i program rozciąganie i wyrównywania histogramu
+### Ćwiczenie 1: Algorytm i program rozciąganie i wyrównywania histogramu
 - ~~Zadanie 1~~
     - Opracować algorytm i uruchomić aplikację tworzenia, rozciągania i wyrównywania
 histogramu według 3 metod przedstawionych na wykładzie oraz według metody
 własnej
 
-### Ćwiczenie 2:  Algorytmy i aplikacje realizujące zadane operacje punktowe
+### Ćwiczenie 2: Algorytmy i aplikacje realizujące zadane operacje punktowe
 - ~~Zadanie 1~~
 	- typowe operacje punktowe
 
